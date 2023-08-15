@@ -7,26 +7,29 @@
 [![Youtube](https://img.shields.io/static/v1?label=&message=youtube&color=FF0000&logo=youtube&logoColor=white&style=for-the-badge)](https://www.youtube.com/@DinerErickSanchezCarbajal/about)
 
 
-<h3 align="left"> Sobre mi:</h3>
-🙋‍♂️ ¡Hola! Soy Luis Maldonado, egresado de la carrera Ingeniería Civil en la Universidad Nacional de Ingeniería. Con interés en la optimizacion, Análisis y Diseño Estructural y la metodología BIM. 
+<h3 align="left"> About me:</h3>
+# Diner Sánchez 👷‍♂️
 
-👷‍♂️ Motivado para enfrentar nuevos desafíos, poder aportar todo mi empeño y con muchas ganas de aprender.
+## Education 🎓
+- Bachelor's degree in Civil Engineering from San Ignacio de Loyola University 🏛️
+- Solid background in structures and geotechnics 🏗️🌍
 
-🧑‍🏫 Me capacito de manera continua para estar al día en la parte Teorico-Practico y en el uso de softwares de Modelado, Análisis y Diseño Estructural y la programación con Python para optimizar procesos.
+## Skills 🛠️
+- Basic knowledge in BIM modeling for structures using Autodesk Revit software 🏗️🔧
+- Proficient in structural and geotechnical design software:
+  - ETABS
+  - TRICALC
+  - SAP2000
+  - SAFE
+  - CSiCOL
+  - DIANA FEA BV
+  - GEO5
+  - Slide
+  
+## Personal Statement 🌟
+I am a responsible and persevering individual with a strong drive for continuous learning 📚. I possess excellent interpersonal skills 👥, a strong work ethic 💪, and the ability to work effectively in a team 🤝. My academic background includes a Bachelor's degree in Civil Engineering from San Ignacio de Loyola University, where I gained a solid foundation in structures and geotechnics. Additionally, I have developed a basic proficiency in BIM modeling for structures using Autodesk Revit software. My expertise extends to various structural and geotechnical design software, including ETABS, TRICALC, SAP2000, SAFE, CSiCOL, DIANA FEA BV, GEO5, and Slide.
 
-🤓 Si quieres conocer un poco más lo que hago, te invito a que revises las publicaciones que he realizado en LinkedIn.
-
-Conocimiento en:
- - ETABS
- - SAP2000
- - SAFE
- - Microsoft Excel
- - AutoCad
- - Revit Estructuras
- - Python
- - Ofimatica
-
-
+Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/diner-sanchez) for collaboration or inquiries 📬.
 
 <a href='https://www.linkedin.com/posts/luis-maldonado-de-la-torre_python-api-etabs-activity-7041057672678252544-AEbp?utm_source=share&utm_medium=member_desktop' title="Charlas de programación con Código Vikingo - ver en Youtube" target='_blank'>
   <img width='30.5%' src='https://i.postimg.cc/nz26XcFm/Captura-de-pantalla-2023-07-10-052850.png' alt='Charlas de programación con Código Vikingo' />
