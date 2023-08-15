@@ -1,4 +1,4 @@
-[![Portada-Git-Hub.png](https://i.postimg.cc/7Z0fvg6L/Portada-Git-Hub.png)](https://postimg.cc/pmV2z5KN)
+[![Portada-Git-Hub.png](https://github.com/diner-sanchez/diner-sanchez/blob/main/Portada.png)](https://github.com/diner-sanchez/diner-sanchez/blob/main/Portada.png)
 
 <h1 align="center">Diner Erick Sánchez Carbajal</h1>
 <h3 align="center">Bachelor of Science in Civil Engineering | Structural Engineering</h3>
