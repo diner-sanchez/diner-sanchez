@@ -8,7 +8,7 @@
 
 
 <h3 align="left"> About me:</h3>
-# Diner Sánchez 👷‍♂️
+## Diner Sánchez 👷‍♂️
 
 ## Education 🎓
 - Bachelor's degree in Civil Engineering from San Ignacio de Loyola University 🏛️
